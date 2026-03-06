@@ -1,46 +1,32 @@
-# 📦 StockFlow
+# 👋 Olá, eu sou Renan Santana
 
-Aplicativo mobile para controle de estoque desenvolvido com **React Native + Expo**.
+💻 Desenvolvedor Mobile em formação  
+📱 Focado em React Native  
+🚀 Construindo projetos para evoluir no desenvolvimento mobile.
 
-O objetivo do projeto é permitir o controle simples de produtos, entradas e saídas de estoque, simulando um sistema utilizado em operações logísticas.
+## 🚀 Tecnologias
 
-## 🚀 Funcionalidades
-
-- 📦 Cadastro de produtos
-- 📉 Registro de saída de produtos
-- 📈 Registro de entrada de produtos
-- 📊 Atualização automática do estoque
-- 💾 Persistência de dados no dispositivo
-
-## 🛠 Tecnologias utilizadas
-
+- JavaScript
 - React Native
 - Expo
-- Context API
-- AsyncStorage
-- JavaScript
+- Git & GitHub
 
-## 📱 Screenshots
+## 📦 Projetos
 
-| Dashboard |
-|-----------|
-| (coloque aqui as imagens do app) |
+### StockFlow
+Aplicativo de controle de estoque mobile.
 
-## 📂 Estrutura do projeto
-app/
-index.jsx
-product.jsx
-movements.jsx
+Tecnologias:
+React Native • Expo • Context API
 
-src/
-context/
-StockContext.jsx
+🔗 Em breve disponível no GitHub.
 
-## 🎯 Objetivo do projeto
+## 📚 Atualmente estudando
 
-Este projeto foi desenvolvido com foco em aprendizado e prática de desenvolvimento mobile utilizando React Native.
+- React Native
+- Arquitetura mobile
+- Boas práticas de desenvolvimento
 
-## 👨‍💻 Autor
+## 🎯 Objetivo
 
-Renan Santana de Almeida  
-Desenvolvedor Mobile em formação.
+Conseguir minha primeira oportunidade como **Desenvolvedor Mobile Jr**.
